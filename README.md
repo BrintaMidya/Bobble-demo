@@ -10,3 +10,5 @@ Client based Sign up page web app
 - use localhost as google and facebook sdk work with only web server and doesn't work with ofline opened webpages.
 - use port 8000 for localhost as that has been configured with the api.
 - facebook api is giving some exceptions as it only works with https and not with http.
+
+web hosted version - https://brintamidya.github.io/signup-web-demo/
